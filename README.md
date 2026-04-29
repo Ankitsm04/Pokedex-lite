@@ -69,7 +69,7 @@ postcss.config.mjs      — @tailwindcss/postcss plugin (v4 setup)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/pokedex-lite.git
+git clone https://github.com/Ankitsm04/pokedex-lite.git
 cd pokedex-lite
 
 # 2. Install dependencies
