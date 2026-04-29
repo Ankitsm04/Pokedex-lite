@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[Live Site](https://YOUR-VERCEL-URL.vercel.app) • [GitHub Repo](https://github.com/YOUR_USERNAME/pokedex-lite)
+[Live Site](https://YOUR-VERCEL-URL.vercel.app) • [GitHub Repo](https://github.com/Ankitsm04/Pokedex-lite)
 
 ---
 
